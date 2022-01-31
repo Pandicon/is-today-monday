@@ -1,0 +1,24 @@
+{
+  "name": "is-today-monday",
+  "version": "1.0.0",
+  "description": "This package helps you tell if today is Monday",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pandicon/is-today-monday.git"
+  },
+  "keywords": [
+    "is-today-monday",
+    "monday",
+    "today"
+  ],
+  "author": "Pandicon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pandicon/is-today-monday/issues"
+  },
+  "homepage": "https://github.com/Pandicon/is-today-monday#readme"
+}
